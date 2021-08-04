@@ -1,0 +1,30 @@
+
+.mydiv{
+    position: relative;
+    top: 10px;
+}
+.mybtn{
+    margin-left: 10px;
+}
+.resultlisting{
+    margin-top: 50px;
+    width: 80vw;
+}
+.input{
+    height: 40px;
+}
+.row{
+    margin-top: 20px;    
+    margin-right:2px;
+    margin-left: 100px;
+}
+.details{
+  
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 90px;
+    
+}
+.details h4{
+    font-weight: bold;
+}
